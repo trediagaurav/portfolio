@@ -423,9 +423,11 @@ a:focus {
     }
     ul#portfolio-filter {
         display: flex;
-        border: solid;
         align-items: center;
         justify-content:center;
+    }
+    .about .about-text p{
+        font-size:16px !important;
     }
 }
 
@@ -1222,7 +1224,7 @@ a:focus {
 .team {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 0px 0 15px 0;
 }
 
 .team .team-item {
